@@ -1,4 +1,4 @@
-<img width="1223" alt="image" src="https://github.com/user-attachments/assets/074274cc-d213-46d8-bac8-e26499d371a4"># Machine-Learning-Algorithms-in-Python
+
 
 This is the set of my pratice in AI in Python.
 <br>Learning the course in udemy: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]
